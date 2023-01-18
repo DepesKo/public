@@ -1,0 +1,21 @@
+Преобразование времени и даты из одной временной зоны в другую
+https://docs.microsoft.com/ru-ru/dotnet/standard/datetime/converting-between-time-zones
+
+
+Список временных зон используемых при преобразовании в C#
+https://stackoverflow.com/questions/36219416/system-timezone-display-in-english-text
+
+
+Регулярные выражения C#
+https://metanit.com/sharp/tutorial/7.4.php
+
+Выбор узлов с помощью XPath-навигации
+https://docs.microsoft.com/ru-ru/dotnet/standard/data/xml/select-nodes-using-xpath-navigation
+https://docs.microsoft.com/en-us/troubleshoot/developer/dotnet/framework/general/query-xpathdocument-xpath-csharp
+
+Окно сообщения MessageBox
+https://metanit.com/sharp/windowsforms/4.19.php
+
+
+How to Load an XML File into a DataGridView
+https://www.c-sharpcorner.com/UploadFile/mahesh/load-xml-file-into-a-datagridview-using-C-Sharp/
